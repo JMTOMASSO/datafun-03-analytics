@@ -1,0 +1,11 @@
+instrument_id,instrument_type,year_manufactured,year_acquired,purchase_value,current_value
+DR001,Oboe,2019,2020,5200,4800
+DR002,Oboe,2011,2012,4300,3200
+DR003,Oboe,1998,2005,3500,1800
+DR004,English Horn,2016,2017,7200,6500
+DR005,English Horn,2002,2008,5800,3500
+DR006,Bassoon,2021,2022,10500,9800
+DR007,Bassoon,2014,2015,8500,7000
+DR008,Bassoon,2007,2010,7200,4800
+DR009,Bassoon,1995,2001,6000,2800
+DR010,Contrabassoon,2000,2004,18000,12000

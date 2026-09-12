@@ -1,0 +1,54 @@
+{
+  "instruments": [
+    {
+      "instrument_id": "DR001",
+      "instrument_type": "Oboe",
+      "location": "Studio A"
+    },
+    {
+      "instrument_id": "DR002",
+      "instrument_type": "Oboe",
+      "location": "Studio A"
+    },
+    {
+      "instrument_id": "DR003",
+      "instrument_type": "Oboe",
+      "location": "Storage"
+    },
+    {
+      "instrument_id": "DR004",
+      "instrument_type": "English Horn",
+      "location": "Studio B"
+    },
+    {
+      "instrument_id": "DR005",
+      "instrument_type": "English Horn",
+      "location": "Storage"
+    },
+    {
+      "instrument_id": "DR006",
+      "instrument_type": "Bassoon",
+      "location": "Studio C"
+    },
+    {
+      "instrument_id": "DR007",
+      "instrument_type": "Bassoon",
+      "location": "Studio C"
+    },
+    {
+      "instrument_id": "DR008",
+      "instrument_type": "Bassoon",
+      "location": "Storage"
+    },
+    {
+      "instrument_id": "DR009",
+      "instrument_type": "Bassoon",
+      "location": "Studio C"
+    },
+    {
+      "instrument_id": "DR010",
+      "instrument_type": "Contrabassoon",
+      "location": "Storage"
+    }
+  ]
+}

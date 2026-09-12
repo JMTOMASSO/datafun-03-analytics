@@ -1,0 +1,15 @@
+Double Reed Inventory Analysis
+
+Instrument Age
+Count: 10
+Minimum: 5.00 years
+Maximum: 31.00 years
+Mean: 17.70 years
+Standard Deviation: 9.24 years
+
+Current Value
+Count: 10
+Minimum: $1800.00
+Maximum: $12000.00
+Mean: $5620.00
+Standard Deviation: $3250.57

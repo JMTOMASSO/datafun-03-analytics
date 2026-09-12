@@ -1,0 +1,4 @@
+XLSX Word Count Result
+Word: repair
+Column: A
+Count: 6

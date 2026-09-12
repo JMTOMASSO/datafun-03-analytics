@@ -1,0 +1,5 @@
+Double-reed instruments by location
+Storage: 4
+Studio A: 2
+Studio B: 1
+Studio C: 3
